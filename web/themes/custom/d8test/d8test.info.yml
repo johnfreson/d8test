@@ -1,0 +1,8 @@
+name: 'D8 Test'
+type: theme
+base theme: bartik
+description: 'Subtema a partir de Bartik'
+core: '8.x'
+
+libraries:
+  - d8test/global-styling
